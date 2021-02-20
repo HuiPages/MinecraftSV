@@ -33,3 +33,10 @@
 
 -blocksmc.com:25565
 
+## 站点食用
+[站点介绍以及游玩须知](https://huipages.github.io/SERVERHelp/.)
+
+进入[服务器文章](https://huipages.github.io/MinecraftServer-pages/)列表
+
+进入[下载站](https://huipages.github.io/download/)
+
