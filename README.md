@@ -27,7 +27,9 @@
 
 **生存服**
 
--[1.16.2夜幕插件生电服]
+-[1.16.2夜幕插件生电服](https://huipages.github.io/yemuserver/)
 
 ### 外服
+
+-blocksmc.com:25565
 
